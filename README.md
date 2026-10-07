@@ -7,7 +7,6 @@
 Backend Systems · APIs · Linux Infrastructure · Platform Engineering
 
 [Portfolio](https://hybridmarket.org) ·
-[LinkedIn](YOUR_LINKEDIN_URL) ·
 [HybridMindLabs](https://github.com/HybridMindLabs)
 
 </div>
@@ -85,13 +84,11 @@ alt="Top languages" />
 
 ---
 
-## Let's Connect
-
-Open to remote opportunities in:
-
-**Software Engineering · Backend Engineering · DevOps · Platform Engineering**
-
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-HybridMarket.org-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hybridmarket.org)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hybridmind1337@gmail.com)
+
 
 [Portfolio](https://hybridmarket.org) ·
 [HybridMindLabs](https://github.com/HybridMindLabs) ·
